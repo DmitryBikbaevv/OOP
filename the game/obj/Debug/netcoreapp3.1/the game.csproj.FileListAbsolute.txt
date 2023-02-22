@@ -1,0 +1,14 @@
+C:\Users\79104\source\repos\the game\bin\Debug\netcoreapp3.1\the game.exe
+C:\Users\79104\source\repos\the game\bin\Debug\netcoreapp3.1\the game.deps.json
+C:\Users\79104\source\repos\the game\bin\Debug\netcoreapp3.1\the game.runtimeconfig.json
+C:\Users\79104\source\repos\the game\bin\Debug\netcoreapp3.1\the game.runtimeconfig.dev.json
+C:\Users\79104\source\repos\the game\bin\Debug\netcoreapp3.1\the game.dll
+C:\Users\79104\source\repos\the game\bin\Debug\netcoreapp3.1\the game.pdb
+C:\Users\79104\source\repos\the game\obj\Debug\netcoreapp3.1\the game.csproj.AssemblyReference.cache
+C:\Users\79104\source\repos\the game\obj\Debug\netcoreapp3.1\the game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79104\source\repos\the game\obj\Debug\netcoreapp3.1\the game.AssemblyInfoInputs.cache
+C:\Users\79104\source\repos\the game\obj\Debug\netcoreapp3.1\the game.AssemblyInfo.cs
+C:\Users\79104\source\repos\the game\obj\Debug\netcoreapp3.1\the game.csproj.CoreCompileInputs.cache
+C:\Users\79104\source\repos\the game\obj\Debug\netcoreapp3.1\the game.dll
+C:\Users\79104\source\repos\the game\obj\Debug\netcoreapp3.1\the game.pdb
+C:\Users\79104\source\repos\the game\obj\Debug\netcoreapp3.1\the game.genruntimeconfig.cache
