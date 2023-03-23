@@ -1,0 +1,15 @@
+C:\Users\79104\source\repos\sheepsgame2\sheepsgame2\bin\Debug\net6.0\sheepsgame2.exe
+C:\Users\79104\source\repos\sheepsgame2\sheepsgame2\bin\Debug\net6.0\sheepsgame2.deps.json
+C:\Users\79104\source\repos\sheepsgame2\sheepsgame2\bin\Debug\net6.0\sheepsgame2.runtimeconfig.json
+C:\Users\79104\source\repos\sheepsgame2\sheepsgame2\bin\Debug\net6.0\sheepsgame2.dll
+C:\Users\79104\source\repos\sheepsgame2\sheepsgame2\bin\Debug\net6.0\sheepsgame2.pdb
+C:\Users\79104\source\repos\sheepsgame2\sheepsgame2\obj\Debug\net6.0\sheepsgame2.csproj.AssemblyReference.cache
+C:\Users\79104\source\repos\sheepsgame2\sheepsgame2\obj\Debug\net6.0\sheepsgame2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79104\source\repos\sheepsgame2\sheepsgame2\obj\Debug\net6.0\sheepsgame2.AssemblyInfoInputs.cache
+C:\Users\79104\source\repos\sheepsgame2\sheepsgame2\obj\Debug\net6.0\sheepsgame2.AssemblyInfo.cs
+C:\Users\79104\source\repos\sheepsgame2\sheepsgame2\obj\Debug\net6.0\sheepsgame2.csproj.CoreCompileInputs.cache
+C:\Users\79104\source\repos\sheepsgame2\sheepsgame2\obj\Debug\net6.0\sheepsgame2.dll
+C:\Users\79104\source\repos\sheepsgame2\sheepsgame2\obj\Debug\net6.0\refint\sheepsgame2.dll
+C:\Users\79104\source\repos\sheepsgame2\sheepsgame2\obj\Debug\net6.0\sheepsgame2.pdb
+C:\Users\79104\source\repos\sheepsgame2\sheepsgame2\obj\Debug\net6.0\sheepsgame2.genruntimeconfig.cache
+C:\Users\79104\source\repos\sheepsgame2\sheepsgame2\obj\Debug\net6.0\ref\sheepsgame2.dll
